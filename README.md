@@ -1,2 +1,3 @@
-# alx-low_level_programming
-Started learning the C language
+#ALX LOW LEVEL PROGRAMMING
+
+This is a repo on the C langauge projects given by ALX
